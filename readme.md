@@ -1,0 +1,1 @@
+### This is a simple blazor application created using .net5
